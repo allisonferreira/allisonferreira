@@ -1,4 +1,3 @@
-### Hi there 👋
 <img src="./img/capa-github.png">
 
 <!--
